@@ -1,4 +1,4 @@
-Project - Phishing Detector using LR
+Project - Phishing Detector using LR while Creating and Deploying a Web Application using Streamlit
 
 Description :
 
