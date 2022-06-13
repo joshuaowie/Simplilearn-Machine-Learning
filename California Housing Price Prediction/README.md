@@ -1,4 +1,5 @@
-Project - California Housing Price Prediction
+Project - California Housing Price Prediction And Creation and Deployment of A Web Application using Streamlit
+
 
 Description :
 
