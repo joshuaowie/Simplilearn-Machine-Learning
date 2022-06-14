@@ -6,3 +6,4 @@ pandas
 numpy
 streamlit
 matplotlib.pyplot
+csv file
